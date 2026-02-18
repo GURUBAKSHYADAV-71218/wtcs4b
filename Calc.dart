@@ -1,5 +1,12 @@
 import 'dart:io';
 
+//git init
+//git add .
+//git commit -m "Initial commit"
+//git remote add origin <PASTE_YOUR_REPOSITORY_URL_HERE>
+//git push -u origin main
+
+
 double add(double a, double b) {
   return a + b;
 }
